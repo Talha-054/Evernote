@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.profilePic {
+      background-image: url(./assets/header.jpg);
+}
+
+.layout::-webkit-scrollbar {
+      display: none;
+}
+
+.heading::-webkit-scrollbar {
+      display: none;
+}
+
+.ftcImg {
+      background-image: url(./assets/ftc2.jpg);
+}
+
+.homeImg2 {
+      background-image: url(./assets/home2.png);
+}
+
+
